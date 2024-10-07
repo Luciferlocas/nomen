@@ -19,4 +19,14 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/u/100860877?v=4",
     background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
   },
+  {
+    name: "Navneet Rajput",
+    slug: "Navneet Rajput",
+    domain: "Frontend",
+    description: "I love to code",
+    quote: "help is the best virtue",
+    about: "Life is not cakewalk",
+    avatar: "https://avatars.githubusercontent.com/u/100860877?v=4",
+    background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
+  },
 ];
