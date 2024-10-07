@@ -19,14 +19,4 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/u/100860877?v=4",
     background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
   },
-  {
-    name: "Dikshant",
-    slug: "euclid-stellar",
-    domain: "App Developer ",
-    description: "I know a lot about somethign and something about a lot",
-    quote: "Sic Parvis Magna",
-    about: "I see , I observe and then I create solutions",
-    avatar: "https://avatars.githubusercontent.com/u/100860877?v=4",
-    background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
-  }
 ];
