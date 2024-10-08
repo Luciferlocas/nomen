@@ -26,7 +26,7 @@ const Resume = ({ user }: { user: string }) => {
 
   return (
     <div className="flex gap-4 items-start mt-8 mb-16">
-      <div className="bg-white p-8 rounded-2xl shadow-lg max-w-3xl mx-auto text-black h-[calc(100vh-8rem)] overflow-y-scroll">
+      <div className="text-center bg-white p-8 rounded-2xl shadow-lg max-w-3xl mx-auto text-black h-[calc(100vh-8rem)] overflow-y-scroll">
         <header className="mb-6">
           <h1 className="text-3xl font-bold">{resumeData.name}</h1>
           <p className="text-gray-600">{resumeData.location}</p>
