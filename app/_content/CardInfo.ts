@@ -19,4 +19,14 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/u/100860877?v=4",
     background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
   },
+  {
+    name: "Atul Gupta",
+    slug: "atul-gupta",
+    domain: "backend developer",
+    description: "I know a lot about somethign and something about a lot",
+    quote: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    about: "I see , I observe and then I create solutions",
+    avatar: "https://avatars.githubusercontent.com/u/157120914?v=4",
+    background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
 ];
