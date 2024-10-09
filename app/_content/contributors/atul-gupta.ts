@@ -46,7 +46,7 @@ export const data = {
         name: "E-commerce",
         technologies: "React",
         period: "1month",
-        // details: ["DETAIL 1", "DETAIL 2", "DETAIL 3"],
+        details: ["A simple e-commerce website"],
       },
       // {
       //   name: "ANOTHER PROJECT",
@@ -58,8 +58,8 @@ export const data = {
     skills: {
       languages: ["JavaScript", "java"],
       technologies: ["Reactjs", "Nodejs", "Expressjs"],
-      // tools: ["TOOL 1", "TOOL 2"],
+      tools: ["VS code"],
     },
-    achievements: ["ACHIEVEMENT 1", "ACHIEVEMENT 2", "ACHIEVEMENT 3"],
+    achievements: ["Learning everyday"],
   };
   
