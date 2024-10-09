@@ -29,4 +29,14 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/u/157120914?v=4",
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
+  {
+    name: "Krishna Faujdar",
+    slug: "krishna-faujdar",
+    domain: "Coder",
+    description: "       Part time Coder, Full-Time BatMan      ",
+    quote: "Code is like humor. When you have to explain it, it's not funny.",
+    about: "I'm a software engineer with a passion for contributing to open source projects.",
+    avatar: "https://avatars.githubusercontent.com/u/168955332?v=4",
+    background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
 ];
