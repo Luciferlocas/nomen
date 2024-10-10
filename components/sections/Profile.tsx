@@ -18,7 +18,7 @@ const Profile = ({ data }: { data: Info }) => {
           <h1 className="bg-gradient-to-br from-slate-300 to-slate-500 bg-clip-text text-center text-2xl sm:text-2xl font-medium tracking-tight text-transparent md:text-4xl">
             {data.name}
           </h1>
-          <p className="text-white/40 text-sm tracking-wider">
+          <p className="text-white/40 tracking-wider capitalize">
             {data.domain} developer at Ghaziabad
           </p>
         </div>

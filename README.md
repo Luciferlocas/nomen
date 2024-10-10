@@ -50,7 +50,7 @@ To build your digital career masterpiece, you'll need:
 
 ### How to Contribute 📝
 
-We’d love your contributions! Whether you’re adding your resume, a new features or improving the design, check out our [Contributor's Guide](CONTRIBUTING.md) and be part of transforming how professionals present their careers.
+We’d love your contributions! Whether you’re adding your resume, a new features or improving the design, check out our [Contributor's Guide](CONTRIBUTION.md) and be part of transforming how professionals present their careers.
 
 ## Ready to Create Your Digital Masterpiece? 🎨
 
