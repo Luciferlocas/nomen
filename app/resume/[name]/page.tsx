@@ -9,9 +9,9 @@ const page = ({ params }: { params: { name: string } }) => {
   if (!user) return;
 
   return (
-    <div className="w-screen flex items-start justify-center">
+    <div className="w-screen sm:flex items-start justify-center">
       <Profile data={user} />
-      <div className="w-2/3 flex justify-center py-8">
+      <div className="w-[98vw]  md:w-2/3 flex justify-center py-8">
         <Resume user={params.name} />
       </div>
     </div>

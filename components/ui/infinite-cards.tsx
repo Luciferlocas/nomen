@@ -115,7 +115,7 @@ export const InfiniteMovingCards = ({
                       <p className="font-normal text-base text-gray-50 relative z-10">
                         {item.name}
                       </p>
-                      <p className="text-sm">{item.domain}</p>
+                      <p className="text-sm capitalize">{item.domain}</p>
                     </div>
                   </div>
                 </div>
