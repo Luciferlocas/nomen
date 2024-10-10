@@ -28,7 +28,8 @@ export const info = [
     about: "I transform complexity into simplicity",
     avatar: "https://avatars.githubusercontent.com/u/71784456?s=400&u=cb4633be9cf30b848890c60d41860ddae454e58a&v=4",
     background: "https://wallpapercave.com/wp/wp7095337.jpg"
-  }
+  },
+  {
     name: "Atul Gupta",
     slug: "atul-gupta",
     domain: "backend developer",
