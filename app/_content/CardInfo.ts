@@ -78,4 +78,16 @@ export const info = [
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 
   },
+  {
+    name: "Aashka Chhabra",
+    slug: "aashka-chhabra",
+    domain: "frontend developer",
+    description: "A few things matter in life, just like my resume! ",
+    quote: "Happily coding",
+    about: "I see , I observe and then I create solutions",
+    avatar: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Flittle-panda-cartoon-panda-cute-panda-face-baby-shower-paws-up-over-wall-little-panda-cartoon-panda-cute-panda-face-baby-shower-image234185725&psig=AOvVaw1QR-uvD0Cq8OOHjqAdbSH-&ust=1728575428697000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCvzLnTgYkDFQAAAAAdAAAAABAJ",
+    background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+
+
 ];
