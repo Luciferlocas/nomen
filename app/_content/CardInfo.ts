@@ -20,7 +20,6 @@ export const info = [
     background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
   },
   {
-<<<<<<< HEAD
     name: "Dikshant Ahalawat",
     slug: "dikshant-ahalawat",
     domain: "App Development",
@@ -28,9 +27,8 @@ export const info = [
     quote: "Code is like humour when you have to explain it ,it's bad",
     about: "Just a beginner learning new things",
     avatar: "https://avatars.githubusercontent.com/u/161125888?s=400&u=6f1168736a081c90a2c46cd171c6dec0e2730013&v=4",
-    background: "https://images.unsplash.com/photo-1614628820787-fec22f9124a1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-=======
-    name: "Shashwat Pratap Singh",
+    background: "https://images.unsplash.com/photo-1614628820787-fec22f9124a1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+    {name: "Shashwat Pratap Singh",
     slug: "shashwat-singh",
     domain: "App Developer",
     description: "The one who knows nothing but seeks everything",
@@ -78,6 +76,6 @@ export const info = [
     about: "I'm a BackendDev with a passion for open source projects.",
     avatar: "https://avatars.githubusercontent.com/u/118847706?v=4",
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
->>>>>>> 27c6bf20a5c34ded63c9869c0582e4017ff8472e
+
   },
 ];
