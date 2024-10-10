@@ -17,6 +17,17 @@ export const data = {
         period: "2023 – 2027",
       },
     ],
+    experience: [
+      {
+        company: "NomeN",
+        position: "Backend Developer",
+        location: "Prayagraj, Uttar Pradesh",
+        period: "Sept. 2023 – present",
+        responsibilities: [
+          "Complete the task to add resume",
+        ],
+      },
+    ],
     projects: [
       {
         name: "Soc_Hub",
