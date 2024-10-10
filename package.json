@@ -19,6 +19,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^11.11.1",
     "next": "14.2.14",
+    "pnpm": "^9.12.1",
     "react": "^18",
     "react-dom": "^18",
     "react-to-print": "^3.0.1",

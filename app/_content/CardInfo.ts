@@ -59,4 +59,14 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/u/168955332?v=4",
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
+  {
+    name: "Barnamoy Roy",
+    slug: "barnamoy-roy",
+    domain: "Coder",
+    description: "       I have to beat the voices, they are getting too strong      ",
+    quote: "The best error message is the one that never shows up.",
+    about: "I am a software engineer with a passion for contributing to open source projects.",
+    avatar: "https://avatars.githubusercontent.com/u/75882515?s=400&u=291370be2f060600309048f180c2dd19d0fdb9db&v=4",
+    background: "https://plus.unsplash.com/premium_photo-1686255006386-5f58b00ffe9d?q=80&w=2788&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
 ];
