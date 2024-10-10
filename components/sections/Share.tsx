@@ -1,6 +1,7 @@
 import React from "react";
 import { CiShare2 } from "react-icons/ci";
 import { usePathname } from "next/navigation";
+import ShareIcon from "../icons/ShareIcon";
 
 const Share = ({ name }: { name: string }) => {
   const route = usePathname();
@@ -30,8 +31,9 @@ const Share = ({ name }: { name: string }) => {
     }
   };
   return (
-    <button onClick={handleShare} title="Share this resume">
-      <CiShare2 size={30} className="hover:text-blue-500" />
+    <button onClick={handleShare} title="Share this resume" className="hover:text-blue-500">
+      {/* <CiShare2 size={30}  /> */}
+      <ShareIcon />
     </button>
   );
 };
