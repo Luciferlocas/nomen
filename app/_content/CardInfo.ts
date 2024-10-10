@@ -19,4 +19,14 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/u/100860877?v=4",
     background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
   },
+  {
+    name: "Dikshant Ahalawat",
+    slug: "dikshant-ahalawat",
+    domain: "App Development",
+    description: "Iam decidated to do the work in which iam interested",
+    quote: "Code is like humour when you have to explain it ,it's bad",
+    about: "Just a beginner learning new things",
+    avatar: "https://avatars.githubusercontent.com/u/161125888?s=400&u=6f1168736a081c90a2c46cd171c6dec0e2730013&v=4",
+    background: "https://images.unsplash.com/photo-1614628820787-fec22f9124a1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
 ];
