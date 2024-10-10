@@ -25,7 +25,7 @@ const Resume = ({ user }: { user: string }) => {
   if (!resumeData) return;
 
   return (
-    <div className="md:flex grid gap-4 items-start mt-8 mb-16">
+    <div className="md:flex grid gap-4 px-4 md:px-0 items-start mt-8 mb-16">
       <div className="bg-white order-2 md:order-1 p-8 rounded-2xl shadow-lg max-w-full  md:max-w-3xl mx-auto text-black h-[calc(100vh-8rem)] overflow-y-scroll">
         <header className="mb-6">
           <h1 className="text-3xl font-bold">{resumeData.name}</h1>
