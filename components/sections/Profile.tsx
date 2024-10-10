@@ -19,7 +19,7 @@ const Profile = ({ data }: { data: Info }) => {
             {data.name}
           </h1>
           <p className="text-white/40 tracking-wider capitalize">
-            {data.domain} developer at Ghaziabad
+            {data.domain}
           </p>
         </div>
       </div>
