@@ -51,7 +51,7 @@ export const info = [
   },
   {
     name: "Arpit Anand",
-    slug: "Arpit-Anand",
+    slug: "arpit-anand",
     domain: "Backend Dev",
     description: "Open source contributor",
     quote: "Imposter syndrome is the constant truth",
