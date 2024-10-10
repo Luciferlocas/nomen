@@ -123,7 +123,7 @@ export const BackgroundBeamsWithCollision = ({
     <div
       ref={parentRef}
       className={cn(
-        "min-h-[calc(100vh-3.5rem)] relative flex items-center w-full justify-center overflow-hidden",
+        "min-h-[calc(70vh-3.5rem)] md:min-h-[calc(100vh-3.5rem)] relative flex items-center w-full justify-center overflow-hidden",
         className
       )}
     >
