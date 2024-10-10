@@ -1,11 +1,12 @@
 import React from "react";
-import ShareIcon from "../icons/ShareIcon";
+import { CiShare2 } from "react-icons/ci";
 import { usePathname } from "next/navigation";
+import ShareIcon from "../icons/ShareIcon";
 
 const Share = ({ name }: { name: string }) => {
-    const route = usePathname();
-    console.log(route);
-    
+  const route = usePathname();
+  console.log(route);
+
   const shareUrl = window.location.href;
   const handleShare = async () => {
     if (navigator.share) {
@@ -30,7 +31,8 @@ const Share = ({ name }: { name: string }) => {
     }
   };
   return (
-    <button onClick={handleShare}>
+    <button onClick={handleShare} title="Share this resume" className="hover:text-blue-500">
+      {/* <CiShare2 size={30}  /> */}
       <ShareIcon />
     </button>
   );
