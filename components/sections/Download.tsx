@@ -8,7 +8,7 @@ import {
   PDFDownloadLink,
   Link,
 } from "@react-pdf/renderer";
-import DownloadIcon from "../icons/DownloadIcon";
+import { GoDownload } from "react-icons/go";
 import { ResumeData } from "@/lib/types";
 
 const Download = ({ data }: { data: ResumeData }) => {
@@ -22,7 +22,7 @@ const Download = ({ data }: { data: ResumeData }) => {
       fileName="resume.pdf"
       className="text-white cursor-pointer"
     >
-      <DownloadIcon />
+      <GoDownload size={30} className="hover:text-blue-500" title="Download this resume" />
     </PDFDownloadLink>
   );
 };
