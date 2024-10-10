@@ -69,4 +69,14 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/u/118847706?v=4",
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
+  {
+    "name": "Mayank Gupta",
+    "slug": "Mayank-Gupta",
+    "domain": "Java Developer",
+    "description": "Part time Coder, Full-Time layman",
+    "quote": "Code is like humor. When you have to explain it, it's not funny.",
+    "about": "I'm a software engineer with a passion for contributing to open source projects.",
+    "avatar": "https://cdn.pixabay.com/photo/2016/01/09/20/37/laicka-1130945_640.jpg",
+    "background": "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format"
+  },
 ];
