@@ -136,9 +136,9 @@ const Resume = ({ user }: { user: string }) => {
           </ul>
         </section>
       </div>
-      <div className="flex flex-col gap-4 bg-gray-800/50 px-2 py-4 rounded-lg">
+      <div className=" w-[30vw] md:w-auto md:order-2 order-1 w-2xl flex justify-evenly md:flex-col gap-4 bg-gray-800/50 px-2 py-4 rounded-lg">
         <Download data={resumeData}  />
-        <div className="w-full bg-gray-500 h-px"></div>
+        <div className=" max-h-full w-px md:w-full bg-gray-500 md:h-px"></div>
         <Share name={resumeData.name} />
       </div>
     </div>

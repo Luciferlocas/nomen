@@ -43,10 +43,7 @@ Once everything is set up, you're ready to move on to the next steps:
    ```bash
    git clone https://github.com/{YOUR_GITHUB_USERNAME}/nomen.git
    ```
-
-   ```bash
-    git clone https://github.com/{YOUR_GITHUB_USERNAME}/fehrist.git
-   ```
+   
    * After cloning, do not forget to create a new branch for your changes, you can do so by running:
   
    ```bash
