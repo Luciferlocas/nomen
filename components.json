@@ -1,20 +1,56 @@
 {
+  // Schema for the UI components and structure
   "$schema": "https://ui.shadcn.com/schema.json",
+  
+  // Default styling option used for UI components
   "style": "default",
+
+  // Enables React Server Components (RSC)
   "rsc": true,
+
+  // Enables TypeScript JSX (TSX) for better type safety in components
   "tsx": true,
+
+  // Configuration settings related to Tailwind CSS
   "tailwind": {
+    // Path to the Tailwind CSS configuration file
     "config": "tailwind.config.ts",
+
+    // Path to the global CSS file where Tailwind directives are applied
     "css": "app/globals.css",
+
+    // Base color palette set to 'slate' for consistent UI theme
     "baseColor": "slate",
+
+    // Enables the use of CSS variables for better theming and customization
     "cssVariables": true,
+
+    // Prefix for Tailwind CSS classes (empty in this case for no prefix)
     "prefix": ""
   },
+
+  // Aliases for frequently used directories to make imports cleaner and more readable
   "aliases": {
+    // Shortcut for the components directory
     "components": "@/components",
+
+    // Shortcut for utility functions or files
     "utils": "@/lib/utils",
+
+    // Shortcut for UI-specific components
     "ui": "@/components/ui",
+
+    // Shortcut for example components or demo files
     "examples": "@/components/examples",
+
+    // Shortcut for block-based components (reusable UI blocks)
     "blocks": "@/components/blocks"
   }
 }
+
+
+## Key Changes and Explanations:
+> Comments: Added explanations for each field to clarify its purpose.
+> Organization: Kept your structure clean and easy to navigate.
+
+This should make the configuration easier to maintain and modify as needed!
