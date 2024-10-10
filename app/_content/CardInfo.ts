@@ -20,6 +20,15 @@ export const info = [
     background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
   },
   {
+    name: "Shashwat Pratap Singh",
+    slug: "shashwat-singh",
+    domain: "App Developer",
+    description: "The one who knows nothing but seeks everything",
+    quote: "Life's a Game",
+    about: "I transform complexity into simplicity",
+    avatar: "https://avatars.githubusercontent.com/u/71784456?s=400&u=cb4633be9cf30b848890c60d41860ddae454e58a&v=4",
+    background: "https://wallpapercave.com/wp/wp7095337.jpg"
+  }
     name: "Atul Gupta",
     slug: "atul-gupta",
     domain: "backend developer",
