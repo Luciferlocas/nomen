@@ -25,8 +25,8 @@ const Resume = ({ user }: { user: string }) => {
   if (!resumeData) return;
 
   return (
-    <div className="flex gap-4 items-start mt-8 mb-16">
-      <div className="bg-white p-8 rounded-2xl shadow-lg max-w-3xl mx-auto text-black h-[calc(100vh-8rem)] overflow-y-scroll">
+    <div className="md:flex grid gap-4 px-4 md:px-0 items-start mt-8 mb-16">
+      <div className="bg-white order-2 md:order-1 p-8 rounded-2xl shadow-lg max-w-full  md:max-w-3xl mx-auto text-black h-[calc(100vh-8rem)] overflow-y-scroll">
         <header className="mb-6">
           <h1 className="text-3xl font-bold">{resumeData.name}</h1>
           <p className="text-gray-600">{resumeData.location}</p>
@@ -136,9 +136,9 @@ const Resume = ({ user }: { user: string }) => {
           </ul>
         </section>
       </div>
-      <div className="flex flex-col gap-4 bg-gray-800/50 px-2 py-4 rounded-lg">
+      <div className=" w-[30vw] md:w-auto md:order-2 order-1 w-2xl flex justify-evenly md:flex-col gap-4 bg-gray-800/50 px-2 py-4 rounded-lg">
         <Download data={resumeData}  />
-        <div className="w-full bg-gray-500 h-px"></div>
+        <div className=" max-h-full w-px md:w-full bg-gray-500 md:h-px"></div>
         <Share name={resumeData.name} />
       </div>
     </div>
