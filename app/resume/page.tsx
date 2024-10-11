@@ -3,14 +3,15 @@ import { InfiniteMovingCards } from "@/components/ui/infinite-cards";
 import React from "react";
 import { info } from "../_content/CardInfo";
 import { TextRevealCard } from "@/components/ui/text-reveal-card";
-import BackButton from "@/components/ui/back-button";
 import Link from "next/link";
+import SpecialButton from "@/components/ui/special-button";
+import BackArrow from "@/components/icons/BackArrow";
 
 const page = () => {
   return (
     <div>
         <Link href="/" className="fixed left-4 top-4 z-[9999] ">
-          <BackButton />
+          <SpecialButton className="p-[6px]" classButton="mt-0" icon={<BackArrow/>}/>
         </Link>
       <div className="min-h-screen rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
         <InfiniteMovingCards data={info} direction="right" speed="fast" />
