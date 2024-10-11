@@ -14,7 +14,7 @@ export const data = {
       institution: "APJ Abdul Kalam Technical University",
       location: "Ghaziabad, Uttar Pradesh",
       degree: "Bachelor of Technology in Computer Science",
-      period: "Sep. 2022 – May 2026"
+      period: "Sep. 2022 - May 2026"
     }
   ],
   experience: [
@@ -22,7 +22,7 @@ export const data = {
       company: "C4GT'24 ( Code 4 GovTech )",
       position: "Software Intern",
       location: "Remote",
-      period: "June 2024 – Present",
+      period: "June 2024 - Present",
       responsibilities: [
         "Developing a voice based form filling UI component in flutter to simplify the process of form filling using NLP and reducing voice latency by 20 percent.",
         "Leveraged under the Digital Public Goods initiative of the Government, this product delivers a significant impact on digital products in GovTech, serving 10 million people worldwide."
@@ -32,7 +32,7 @@ export const data = {
       company: "Blockchain Research Lab",
       position: "Software Engineer",
       location: "Ghaziabad, India",
-      period: "Sep. 2023 – Present",
+      period: "Sep. 2023 - Present",
       responsibilities: [
         "Implemented an application designed to efficiently manage visitor data at colleges, utilizing Google ML Kit to scan visitors' ID proofs and extract relevant information, resulting in a 50 percent reduction in data processing time.",
         "Utilized facial recognition through the camera to generate ID cards for visitors, simultaneously maintaining a comprehensive record of all visits. This process improved efficiency by 50 percent and served over 4000 visitors monthly.",

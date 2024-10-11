@@ -136,11 +136,17 @@ const Resume = ({ user }: { user: string }) => {
           </ul>
         </section>
       </div>
-      <div className=" w-[30vw] md:w-auto md:order-2 order-1 w-2xl flex justify-evenly md:flex-col gap-4 bg-gray-800/50 px-2 py-4 rounded-lg">
+
+      <div className="md:order-2 flex flex-row md:flex-col justify-start items-center gap-4  p-4 rounded-lg">
         <Download data={resumeData} />
-        <div className=" max-h-full w-px md:w-full bg-blue-500 md:h-px"></div>
+
+        {/* Divider line */}
+        <div className="h-8 w-px md:h-px md:w-16 bg-blue-500"></div>
+
         <Share name={resumeData.name} />
       </div>
+
+
     </div>
   );
 };
