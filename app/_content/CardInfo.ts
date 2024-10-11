@@ -76,6 +76,15 @@ export const info = [
     about: "I'm a BackendDev with a passion for open source projects.",
     avatar: "https://avatars.githubusercontent.com/u/118847706?v=4",
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-
+  },
+  {
+    name: "Kamal",
+    slug: "kamal-nayan",
+    domain: "Fullstack Dev",
+    description: "______I LIKE BUGS n ERRORS______",
+    quote: "Yeah, computer science!",
+    about: "A fullstack dev aims to make healthy contributions to the community",
+    avatar: "https://avatars.githubusercontent.com/u/154740582?v=4",
+    background: "https://i.pinimg.com/564x/bb/1c/b0/bb1cb0738f53914cfc55f8113f3a11a7.jpg"
   },
 ];
