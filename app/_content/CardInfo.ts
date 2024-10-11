@@ -87,4 +87,14 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/u/154740582?v=4",
     background: "https://i.pinimg.com/564x/bb/1c/b0/bb1cb0738f53914cfc55f8113f3a11a7.jpg"
   },
+  {
+    name: "Ritesh prajapati",
+    slug: "ritesh-prajapati",
+    domain: "coder",
+    description: "Part time WebDev , Full-Time Competitive programming",
+    quote: "Algorithms are like jokes; if you have to explain them, they’re probably not that good!",
+    about: "I am a computer science student with a passion for Competitive programming",
+    avatar: "https://avatars.githubusercontent.com/ritesh381",
+    background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
 ];
