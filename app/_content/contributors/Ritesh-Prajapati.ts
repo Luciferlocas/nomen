@@ -14,7 +14,7 @@ export const data = {
             institution: "Scaler School of technology",
             location: "Bangalore",
             degree: "BSc. in Computer Science",
-            period: "2024 – 2028",
+            period: "05/9/2024 – 31/8/2028",
         },
     ],
     experience: [
@@ -22,7 +22,7 @@ export const data = {
             company: "electroic shop",
             position: "Intern",
             location: "Pune",
-            period: "5-09-2023 – 31-10-2023",
+            period: "5/09/2023 – 31/10/2023",
             responsibilities: [
                 "Website developer",
                 // Add more responsibilities as needed
@@ -45,5 +45,5 @@ export const data = {
         technologies: ["Python", "HTML", "CSS", "C++", "Java"],
         tools: [],
     },
-    achievements: ["Basketball Regional level champion", "School level science exibition winner"],
+    achievements: ["Basketball Regional level champion", "School level science exhibition winner"],
 };
