@@ -1,21 +1,21 @@
 import React from "react";
 
-const BackArrow = () => {
-    return (
-        <svg width="20px" height="20px" viewBox="0 0 1024.00 1024.00" fill="#FFFFFF" className="icon" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke="#FFFFFF" strokeWidth="0.01024" transform="matrix(1, 0, 0, 1, 0, 0)rotate(0)" aria-label="Back-Arrow">
-
-            <g id="SVGRepo_bgCarrier" strokeWidth="0" />
-
-            <g id="SVGRepo_tracerCarrier" strokeLinecap="round" strokeLinejoin="round" stroke="#CCCCCC" strokeWidth="2.048" />
-
-            <g id="SVGRepo_iconCarrier">
-
-                <path d="M669.6 849.6c8.8 8 22.4 7.2 30.4-1.6s7.2-22.4-1.6-30.4l-309.6-280c-8-7.2-8-17.6 0-24.8l309.6-270.4c8.8-8 9.6-21.6 2.4-30.4-8-8.8-21.6-9.6-30.4-2.4L360.8 480.8c-27.2 24-28 64-0.8 88.8l309.6 280z" fill="" />
-
-            </g>
-
-        </svg>
+const BackArrow = () => (
+    <svg 
+        xmlns="http://www.w3.org/2000/svg" 
+        viewBox="0 0 24 24" 
+        width={20} 
+        height={20} 
+        color={"#ffffff"} 
+        fill={"none"}
+    >
+        <path 
+            d="M4.80823 9.44118L6.77353 7.46899C8.18956 6.04799 8.74462 5.28357 9.51139 5.55381C10.4675 5.89077 10.1528 8.01692 10.1528 8.73471C11.6393 8.73471 13.1848 8.60259 14.6502 8.87787C19.4874 9.78664 21 13.7153 21 18C19.6309 17.0302 18.2632 15.997 16.6177 15.5476C14.5636 14.9865 12.2696 15.2542 10.1528 15.2542C10.1528 15.972 10.4675 18.0982 9.51139 18.4351C8.64251 18.7413 8.18956 17.9409 6.77353 16.5199L4.80823 14.5477C3.60275 13.338 3 12.7332 3 11.9945C3 11.2558 3.60275 10.6509 4.80823 9.44118Z" 
+            stroke="currentColor" 
+            strokeWidth="1" 
+            strokeLinecap="round" 
+            strokeLinejoin="round" />
+    </svg>
     );
-};
 
 export default BackArrow;
