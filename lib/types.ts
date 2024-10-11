@@ -1,3 +1,5 @@
+import { ReactNode } from "react";
+
 export interface ResumeData {
   name: string;
   location: string;
@@ -46,4 +48,9 @@ export interface Info {
   about: string;
   avatar?: string;
   background?: string;
+}
+
+export interface Button{
+  icon?: ReactNode;
+  title?: string;
 }

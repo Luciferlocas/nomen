@@ -93,7 +93,7 @@ export const InfiniteMovingCards = ({
             <Link href={`/resume/${item.slug}`}>
               <div
                 className={cn(
-                  "cursor-pointer overflow-hidden relative card min-h-36 rounded-md shadow-xl max-w-sm mx-auto flex flex-col justify-between p-4"
+                  "cursor-pointer overflow-hidden relative card min-h-36 rounded-md shadow-xl min-w-80 max-w-sm mx-auto flex flex-col justify-between p-4"
                 )}
                 style={{
                   backgroundImage: `url(${item.background || url})`,
