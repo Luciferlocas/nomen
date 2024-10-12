@@ -108,4 +108,15 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/ritesh381",
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
+  {
+    name: "Mokhtar Miloua",
+    slug: "mokhtar-miloua",
+    domain: "Software Developer",
+    description: "I Develop Software",
+    quote: "You're damned if you do, damned if you don't",
+    about: "I enjoy solving problems and building impactful solutions.",
+    avatar: "https://avatars.githubusercontent.com/u/80211751?v=4",
+    background:
+      "https://images.unsplash.com/photo-1622046108442-04efb9dbbb1a?q=80&w=1586&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  },
 ];
