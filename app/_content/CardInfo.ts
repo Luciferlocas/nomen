@@ -119,4 +119,14 @@ export const info = [
     background:
       "https://images.unsplash.com/photo-1622046108442-04efb9dbbb1a?q=80&w=1586&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
+  {
+    name: "Rohit Singh",
+    slug: "rohit-singh",
+    domain: "Full-stack Developer",
+    description: "Building real-world solutions with code.",
+    quote: "Not everyone who works hard is rewarded. But! All those who succeed have worked hard!",
+    about: "Full-stack developer passionate about delivering effective software solutions. Winner of the 2023-24 Software Hut Prize for a project involving real-world client collaboration and agile development.",
+    avatar: "https://lh3.googleusercontent.com/a/ACg8ocKcDotZWTnhQxBpcYs-6apYpO22PX_2HPGLY-2xLOzmWQX3Lird=s324-c-no",
+    background: "https://i.ytimg.com/vi/Pi_cyih2EBk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgVChEMA8=&rs=AOn4CLByCjLKhDfDPwPOU1l42DN9ipavig"
+  },
 ];
