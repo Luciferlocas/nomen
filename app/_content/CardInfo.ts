@@ -140,4 +140,14 @@ export const info = [
     background:
       "https://images.unsplash.com/photo-1450849608880-6f787542c88a?q=80&w=1421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
+  {
+    name: "Raj Gharat",
+    slug: "raj-gharat",
+    domain: "Fullstack Developer",
+    description: "Fueled by caffeine and curiosity",
+    quote: "Solving problems, one bug at a time.",
+    about: "Passionate about building scalable solutions, with a focus on efficiency and clean code.",
+    avatar: "https://avatars.githubusercontent.com/u/111341186?v=4",
+    background: "https://images.unsplash.com/photo-1450849608880-6f787542c88a?q=80&w=1421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
 ];
