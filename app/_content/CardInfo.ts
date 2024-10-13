@@ -119,4 +119,15 @@ export const info = [
     background:
       "https://images.unsplash.com/photo-1622046108442-04efb9dbbb1a?q=80&w=1586&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
+  {
+    name: "Cynthia Wahome",
+    slug: "cynthia-wahome",
+    domain: "Web Developer",
+    description: "I specialize in crafting responsive and dynamic web applications.",
+    quote: "Every line of code is a step closer to solving a problem.",
+    about: "I'm passionate about web development, building scalable solutions using cloud technologies, and constantly improving my coding skills to stay ahead of the curve.",
+    avatar: "https://avatars.githubusercontent.com/u/160864573?v=4",
+    background:
+      "https://images.unsplash.com/photo-1450849608880-6f787542c88a?q=80&w=1421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  },
 ];
