@@ -17,7 +17,7 @@ export default function Home() {
         }
       </p>
       <Link href="/resume">
-        <SpecialButton />
+        <SpecialButton title="Explore" />
       </Link>
     </BackgroundLines>
   );

@@ -5,7 +5,7 @@ import { Info } from "@/lib/types";
 
 const Profile = ({ data }: { data: Info }) => {
   return (
-    <BackgroundBeamsWithCollision className="w-1/3 flex flex-col gap-4 items-start px-8 relative min-h-screen">
+    <BackgroundBeamsWithCollision className="md:w-1/3 flex flex-col gap-4 items-start px-8 relative h-auto md:min-h-screen">
       <div className="flex gap-2 items-end">
         <Image
           height="100"
@@ -15,11 +15,11 @@ const Profile = ({ data }: { data: Info }) => {
           className="h-24 w-24 rounded-full border-2 object-cover"
         />
         <div className="flex flex-col items-start">
-          <h1 className="bg-gradient-to-br from-slate-300 to-slate-500 bg-clip-text text-center text-3xl font-medium tracking-tight text-transparent md:text-4xl">
+          <h1 className="bg-gradient-to-br from-slate-300 to-slate-500 bg-clip-text text-center text-2xl sm:text-2xl font-medium tracking-tight text-transparent md:text-4xl">
             {data.name}
           </h1>
           <p className="text-white/40 tracking-wider capitalize">
-            {data.domain} developer at Ghaziabad
+            {data.domain}
           </p>
         </div>
       </div>

@@ -25,6 +25,16 @@ export const data = {
       ],
     },
   ],
+    projects: [
+    {
+      name: "Trivy-scanner resource for concourse",
+      technologies: "Python, Docker, Concourse",
+      period: "2023",
+      details: [
+        "Created a resource for concourse CI/CD tool based on Trivy scanner to scan the docker images for vulnerabilities.",
+      ]
+    }
+  ],
   skills: {
     languages: ["Python", "Bash"],
     technologies: ["Containers", "CI/CD", "Cloud"],
