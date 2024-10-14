@@ -48,6 +48,16 @@ export const info = [
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
+    name: "Hari Prasad",
+    slug: "hriprsd",
+    domain: "DevOps Engineer",
+    description: "I know a lot about something and something about a lot",
+    quote: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    about: "I see , I observe and then I create solutions",
+    avatar: "https://avatars.githubusercontent.com/u/22938927",
+    background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
     name: "Mohit Kumar",
     slug: "mohit-kumar",
     domain: "full-  stack developer",
