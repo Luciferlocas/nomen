@@ -27,8 +27,10 @@ export const info = [
     quote: "Code is like humour when you have to explain it ,it's bad",
     about: "Just a beginner learning new things",
     avatar: "https://avatars.githubusercontent.com/u/161125888?s=400&u=6f1168736a081c90a2c46cd171c6dec0e2730013&v=4",
-    background: "https://images.unsplash.com/photo-1614628820787-fec22f9124a1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
-    {name: "Shashwat Pratap Singh",
+    background: "https://images.unsplash.com/photo-1614628820787-fec22f9124a1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    name: "Shashwat Pratap Singh",
     slug: "shashwat-singh",
     domain: "App Developer",
     description: "The one who knows nothing but seeks everything",
@@ -160,4 +162,14 @@ export const info = [
     avatar: "https://avatars.githubusercontent.com/u/111341186?v=4",
     background: "https://images.unsplash.com/photo-1450849608880-6f787542c88a?q=80&w=1421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
+  {
+    name: "Aarav Manha",
+    slug: "aarav-manha",
+    domain: "Development",
+    description: "hey mohit, thanks for the bg",
+    quote: "e",
+    about: "i like computers",
+    avatar: "https://avatars.githubusercontent.com/xTwo56",
+    background: "https://imgs.search.brave.com/5IGSMSwXANIekL4M45BTYSWpLola4asbeCQw0DHEL9o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTYw/MzA2NzQyL3Bob3Rv/L2hvdC1zdW5yaXNl/LWluLXNwYWNlLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1Z/UDZSZDBvLWhMXzlt/cWRnNzdBeVA3dlR1/cWY3ZnhPSVRUUnBn/cy1rdm9FPQ"
+  }
 ];
