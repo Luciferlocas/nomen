@@ -163,8 +163,8 @@ export const info = [
     background: "https://images.unsplash.com/photo-1450849608880-6f787542c88a?q=80&w=1421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    name: "xTwo56",
-    slug: "xTwo56",
+    name: "Aarav Manha",
+    slug: "aarav-manha",
     domain: "Development",
     description: "hey mohit, thanks for the bg",
     quote: "e",

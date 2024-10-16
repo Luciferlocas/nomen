@@ -1,6 +1,6 @@
 
 export const data = {
-  name: "xTwo56",
+  name: "Aarav Manha",
   location: "Ghaziabad, UP",
   phone: null,
   email: "anonymous256@gmail.com",
