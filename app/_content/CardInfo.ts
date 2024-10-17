@@ -163,6 +163,16 @@ export const info = [
       "https://images.unsplash.com/photo-1450849608880-6f787542c88a?q=80&w=1421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
+    name: "Emma fith",
+    slug: "EmmaF",
+    domain: "Software Engineering",
+    description: "Building web application",
+    quote: "Code is like humor. When you have to explain it, it's bad.",
+    about: "A passionate software developer who loves solving complex problems and building innovative applications.",  
+    avatar: "https://i.imgur.com/9ddKbk7.jpeg",
+    background: "https://i.imgur.com/eDvkdyA.jpeg",
+  },
+  {
     name: "Raj Gharat",
     slug: "raj-gharat",
     domain: "Fullstack Developer",
