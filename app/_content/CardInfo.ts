@@ -30,6 +30,16 @@ export const info = [
     background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
   },
   {
+    name: "Anshika Goel",
+    slug: "anshika-goel",
+    domain: "App development",
+    description: "Beleive you can and you're halfway there",
+    quote: "Your are you",
+    about: "Learing app development",
+    avatar: "https://avatars.githubusercontent.com/u/168545874?s=400&u=444b0ff6bb0264010d5522e2c9a782374c46d44a&v=4",
+    background: "https://tse3.mm.bing.net/th?id=OIP.4ZEivaywM8fPdy4_FHa5twHaEo&pid=Api&P=0&h=220"
+  },
+  {
     name: "Dikshant Ahalawat",
     slug: "dikshant-ahalawat",
     domain: "App Development",
