@@ -14,6 +14,14 @@ You can contribute to **Nomen** in the following ways:
 *   **Feature/UI:** Implement new features, fix bugs, or improve existing functionality & UI.
 *   **Bug Reports:** Report bugs by creating detailed issue reports with clear steps to reproduce.
 
+## Frameworks Used
+
+This project utilizes the following frameworks:
+
+- **Next.js**: For more information, visit the [Next.js Documentation](https://nextjs.org/docs).
+
+- **Tailwind CSS**: For more information, visit the [Tailwind CSS Documentation](https://tailwindcss.com/docs).
+
 ## Requirements 👨‍💻 
 
 To contribute to **Nomen**, you will need the following:
