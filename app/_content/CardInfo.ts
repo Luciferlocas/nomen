@@ -9,6 +9,20 @@ export const info = [
     avatar: "https://photos.wellfound.com/users/17433812-medium_jpg?1709838082",
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
+
+  {
+    name: "Shailja Singh",
+    slug: "shailja-singh",
+    domain: "Machine Learning",
+    description: "little by little,i will become a lot",
+    quote: "Confusion is part of programming",
+    about: "exploring virtual intelligence",
+    avatar: "https://avatars.githubusercontent.com/u/183050907?v=4&size=64",
+    background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+
+
+
   {
     name: "Vaibhav Manihar",
     slug: "VaiMan",
@@ -203,3 +217,6 @@ export const info = [
     background: "https://imgs.search.brave.com/5IGSMSwXANIekL4M45BTYSWpLola4asbeCQw0DHEL9o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTYw/MzA2NzQyL3Bob3Rv/L2hvdC1zdW5yaXNl/LWluLXNwYWNlLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1Z/UDZSZDBvLWhMXzlt/cWRnNzdBeVA3dlR1/cWY3ZnhPSVRUUnBn/cy1rdm9FPQ"
   }
 ];
+
+
+
