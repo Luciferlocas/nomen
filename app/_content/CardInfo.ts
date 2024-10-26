@@ -9,6 +9,20 @@ export const info = [
     avatar: "https://photos.wellfound.com/users/17433812-medium_jpg?1709838082",
     background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
+
+  {
+    name: "Shailja Singh",
+    slug: "shailja-singh",
+    domain: "Machine Learning",
+    description: "little by little,i will become a lot",
+    quote: "Confusion is part of programming",
+    about: "exploring virtual intelligence",
+    avatar: "https://avatars.githubusercontent.com/u/183050907?v=4&size=64",
+    background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+
+
+
   {
     name: "Gaurav Singh",
     slug: "euclid-stellar",
@@ -20,3 +34,6 @@ export const info = [
     background: "https://i.pinimg.com/564x/01/1c/98/011c986dd27f6e0a67dbbf47bca9b442.jpg"
   },
 ];
+
+
+
