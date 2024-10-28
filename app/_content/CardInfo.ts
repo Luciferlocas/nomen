@@ -215,6 +215,16 @@ export const info = [
     about: "i like computers",
     avatar: "https://avatars.githubusercontent.com/xTwo56",
     background: "https://imgs.search.brave.com/5IGSMSwXANIekL4M45BTYSWpLola4asbeCQw0DHEL9o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTYw/MzA2NzQyL3Bob3Rv/L2hvdC1zdW5yaXNl/LWluLXNwYWNlLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1Z/UDZSZDBvLWhMXzlt/cWRnNzdBeVA3dlR1/cWY3ZnhPSVRUUnBn/cy1rdm9FPQ"
+  },
+  {
+    name: "Jenil Langaliya",
+    slug: "Jenil-Langaliya",
+    domain: "Development",
+    description: "man of words",
+    quote: "Solving problems",
+    about: "i like computers",
+    avatar: "https://avatars.githubusercontent.com/u/177637183?s=400&v=4",
+    background: "https://imgs.search.brave.com/5IGSMSwXANIekL4M45BTYSWpLola4asbeCQw0DHEL9o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTYw/MzA2NzQyL3Bob3Rv/L2hvdC1zdW5yaXNl/LWluLXNwYWNlLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1Z/UDZSZDBvLWhMXzlt/cWRnNzdBeVA3dlR1/cWY3ZnhPSVRUUnBn/cy1rdm9FPQ"
   }
 ];
 
