@@ -215,6 +215,16 @@ export const info = [
     about: "i like computers",
     avatar: "https://avatars.githubusercontent.com/xTwo56",
     background: "https://imgs.search.brave.com/5IGSMSwXANIekL4M45BTYSWpLola4asbeCQw0DHEL9o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTYw/MzA2NzQyL3Bob3Rv/L2hvdC1zdW5yaXNl/LWluLXNwYWNlLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1Z/UDZSZDBvLWhMXzlt/cWRnNzdBeVA3dlR1/cWY3ZnhPSVRUUnBn/cy1rdm9FPQ"
+  },
+  {
+    name: "Kidobop Lee",
+    slug: "kidobop-lee",
+    domain: "Senior Software Engineer",
+    description: "Building scalable solutions with a dash of creativity",
+    quote: "Having peace with code while scaling the cloud",
+    about: "Senior software engineer specializing in cloud technologies and distributed systems. Passionate about building scalable solutions and mentoring the next generation of developers.",
+    avatar: "https://avatars.githubusercontent.com/kidobop",
+    background: "https://images.unsplash.com/photo-1647866873870-92d45763ef44?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ];
 
